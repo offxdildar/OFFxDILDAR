@@ -11,6 +11,9 @@
 
 </div>
 
+### Projects
+
+**OFF.0.1** · *In development*  
 ---
 
 ### About me
@@ -33,20 +36,10 @@ I'm **OFFxDILDAR**, a self-taught developer exploring the intersection of softwa
 
 ![Git](https://img.shields.io/badge/Git-0B1527?style=flat-square&logo=git) ![Docker](https://img.shields.io/badge/Docker-0B1527?style=flat-square&logo=docker) ![Linux](https://img.shields.io/badge/Linux-0B1527?style=flat-square&logo=linux) ![Figma](https://img.shields.io/badge/Figma-0B1527?style=flat-square&logo=figma) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1527?style=flat-square&logo=postgresql)
 
-### GitHub stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=offxdildar&show_icons=true&hide_border=true&bg_color=0B1527&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub stats" height="155" />
-<img src="https://streak-stats.demolab.com?user=offxdildar&hide_border=true&background=0B1527&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak" height="155" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=offxdildar&layout=compact&hide_border=true&bg_color=0B1527&title_color=58A6FF&text_color=C9D1D9" alt="Most used public repository languages" height="155" />
 
 </div>
 
-### Projects
 
-**OFF.0.1** · *In development*  
 More details coming soon.
 
 ---
