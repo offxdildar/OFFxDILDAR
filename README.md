@@ -40,10 +40,6 @@ More details coming soon.
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-0B1527?style=flat-square&logo=openai&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-0B1527?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-0B1527?style=flat-square&logo=googlegemini&logoColor=white) ![Antigravity](https://img.shields.io/badge/Antigravity-0B1527?style=flat-square&logo=google&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-0B1527?style=flat-square&logo=anthropic&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-0B1527?style=flat-square&logo=deepseek&logoColor=white)
 
-**Frameworks**
-
-![React](https://img.shields.io/badge/React-0B1527?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-0B1527?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-0B1527?style=flat-square&logo=nodedotjs&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-0B1527?style=flat-square&logo=electron&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-0B1527?style=flat-square&logo=dotnet&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-0B1527?style=flat-square&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-0B1527?style=flat-square&logo=django&logoColor=white)
-
 <div align="center">
 
 <sub>CODE &nbsp; / &nbsp; DESIGN &nbsp; / &nbsp; CREATE</sub>
