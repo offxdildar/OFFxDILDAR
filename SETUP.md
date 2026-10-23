@@ -1,8 +1,8 @@
-# Setup
+# OFFxDILDAR — GitHub Profile Setup
 
-1. Create a public GitHub repository named `offxdildar` under the `offxdildar` account.
-2. Upload `README.md` to the repository root.
-3. Optionally upload `.github/workflows/snake.yml` to generate a contribution snake on the `output` branch. The README does not currently display the snake; add a reference only after the workflow succeeds.
-4. External GitHub statistics images may be unavailable when their third-party providers are down.
+1. Sign in to GitHub as `offxdildar`.
+2. Create a public repository named exactly `offxdildar` (if it does not already exist).
+3. Upload `README.md` to the root of that repository and commit the change.
+4. Visit your GitHub profile to review the rendered README.
 
-No logo or banner files are required.
+The README is English-only, minimal dark, and contains no logo or GitHub Copilot badge. The AI sections include only the names you confirmed: GPT/ChatGPT/Codex, Gemini/Antigravity, Claude/Claude Code, and DeepSeek. The badges are served by Shields.io and require an internet connection to render.
