@@ -5,7 +5,7 @@
 **C R E A T I V E &nbsp; D E V E L O P E R**
 
 [![Instagram](https://img.shields.io/badge/Instagram-offx.io-0B1527?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/offx.io/)
-[![X](https://img.shields.io/badge/X-offdildar-0B1527?style=for-the-badge&logo=x&logoColor=white)](https://x.com/offdildar)
+[![X](https://img.shields.io/badge/X-offdildar-0B1527?style=for-the-badge&logo=x&logoColor=white)](https://x.com/offdildar)[![TikTok](https://img.shields.io/badge/TikTok-offxio-0B1527?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@offxio)
 
 ### Projects
 
