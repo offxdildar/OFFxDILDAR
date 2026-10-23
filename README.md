@@ -7,7 +7,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-offx.io-0B1527?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/offx.io/)
 [![X](https://img.shields.io/badge/X-offdildar-0B1527?style=for-the-badge&logo=x&logoColor=white)](https://x.com/offdildar)
 
-*Always learning.*
+### Projects
+
+**OFF.0.1** · *In development*  
+More details coming soon.
+
+
 
 </div>
 
