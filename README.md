@@ -17,6 +17,12 @@
 
 I'm **OFFxDILDAR**, a self-taught developer exploring the intersection of software, design, and creativity. My interests include web, desktop, and mobile development, AI, automation, game development, and UI/UX. I also enjoy interior design. I believe in sharing what I learn, offering advice, and staying open to learning from others.
 
+### Projects
+
+**OFF.0.1** · *In development*  
+More details coming soon.
+
+
 ### Tech & Tools
 
 <sub>Technologies I use or explore, including my personal AI stack.</sub>
@@ -43,10 +49,7 @@ I'm **OFFxDILDAR**, a self-taught developer exploring the intersection of softwa
 
 ![Git](https://img.shields.io/badge/Git-0B1527?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-0B1527?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-0B1527?style=flat-square&logo=linux&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-0B1527?style=flat-square&logo=figma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1527?style=flat-square&logo=postgresql&logoColor=white)
 
-### Projects
 
-**OFF.0.1** · *In development*  
-More details coming soon.
 
 ---
 
