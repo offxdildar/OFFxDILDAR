@@ -26,7 +26,7 @@ More details coming soon.
 
 ### About Me
 
-I'm **OFFxDILDAR**, a self-taught developer exploring the intersection of software, design, and creativity. My interests include web, desktop, and mobile development, AI, automation, game development, and UI/UX. I also enjoy interior design. I believe in sharing what I learn, offering advice, and staying open to learning from others.
+I'm **DILDAR**, a self-taught developer exploring the intersection of software, design, and creativity. My interests include web, desktop, and mobile development, AI, automation, game development, and UI/UX. I also enjoy interior design. I believe in sharing what I learn, offering advice, and staying open to learning from others.
 
 ### Projects
 
