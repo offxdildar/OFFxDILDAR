@@ -1,49 +1,47 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/username/username/main/assets/switch-icon.png" width="80" alt="Toggle Logo">
-</p>
+<div align="center">
 
-<h1 align="center">OFFxDILDAR</h1>
-<p align="center"><strong>C R E A T I V E &nbsp; D E V E L O P E R</strong></p>
+# OFFxDILDAR
 
-<p align="center">
-  <code>CODE</code> &nbsp;&bull;&nbsp; 
-  <code>DESIGN</code> &nbsp;&bull;&nbsp; 
-  <code>AI</code> &nbsp;&bull;&nbsp; 
-  <code>AUTOMATION</code> &nbsp;&bull;&nbsp; 
-  <code>CREATE</code>
-</p>
+**C R E A T I V E &nbsp; D E V E L O P E R**
 
----
+[![Instagram](https://img.shields.io/badge/Instagram-offxdildar-0B1527?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/offxdildar/)
+[![X](https://img.shields.io/badge/X-offdildar-0B1527?style=for-the-badge&logo=x&logoColor=white)](https://x.com/offdildar)[![TikTok](https://img.shields.io/badge/TikTok-offxio-0B1527?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@offxio)
 
-### ℹ️ About Me
-> I build more than software. I turn ideas into systems, interfaces, and experiences shaped by curiosity and design. I'm **DILDAR** — a self-taught developer exploring code, AI, automation, and the details that make digital products feel exceptional.
+### Projects
 
----
+**OFF.0.1** · *In development*  
+More details coming soon.
 
-### 📦 Project &nbsp;&bull;&nbsp; <code>OFF.0.1</code> &nbsp;&nbsp;&nbsp;&nbsp; <kbd>In Development</kbd>
-> **DESKTOP SUITE** &nbsp;|&nbsp; Windows &bull; Native &bull; 64-Bit
+<div align="center">
 
----
+<sub>CODE &nbsp; / &nbsp; DESIGN &nbsp; / &nbsp; CREATE</sub>
 
-### 🛠️ Tools &nbsp;&bull;&nbsp; AI Models
-<p>
-  <!-- Tools Icons -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="32" height="32" alt="GitHub" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="32" height="32" alt="VS Code" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32" height="32" alt="Docker" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32" height="32" alt="Git" /> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32" height="32" alt="Linux" />
-</p>
+</div>
+
+
+
+</div>
 
 ---
 
-### 💻 Developer Console
-```text
-> whoami
-  OFFxDILDAR
+### About Me
 
-> interests
-  web · desktop · mobile · AI · UI/UX · games · automation
+I'm **DILDAR**, a self-taught developer exploring the intersection of software, design, and creativity. My interests include web, desktop, and mobile development, AI, automation, game development, and UI/UX. I also enjoy interior design. I believe in sharing what I learn, offering advice, and staying open to learning from others.
 
-> status
-  building... [OFF.0.1]  ████████████████████▒▒▒▒▒▒▒▒  72%
+### Projects
+
+**OFF.0.1** · *In development*  
+More details coming soon.
+
+
+### Tech & Tools
+
+<sub>Technologies I use or explore, including my personal AI stack.</sub>
+
+**AI Models**
+
+![GPT](https://img.shields.io/badge/GPT-0B1527?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-0B1527?style=flat-square&logo=googlegemini&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-0B1527?style=flat-square&logo=anthropic&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-0B1527?style=flat-square&logo=deepseek&logoColor=white)
+
+**AI Tools**
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-0B1527?style=flat-square&logo=openai&logoColor=white) ![Codex](https://img.shields.io/badge/Codex-0B1527?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-0B1527?style=flat-square&logo=googlegemini&logoColor=white) ![Antigravity](https://img.shields.io/badge/Antigravity-0B1527?style=flat-square&logo=google&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-0B1527?style=flat-square&logo=anthropic&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-0B1527?style=flat-square&logo=deepseek&logoColor=white)
