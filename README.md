@@ -4,7 +4,6 @@
 
 **CREATIVE DEVELOPER**
 
-[![GITHUB](https://img.shields.io/badge/GITHUB-%40offxdildar-080A0C?style=flat-square&logo=github&logoColor=F5F5F5)](https://github.com/offxdildar)
 [![X](https://img.shields.io/badge/X-%40offdildar-080A0C?style=flat-square&logo=x&logoColor=F5F5F5)](https://x.com/offdildar)
 [![INSTAGRAM](https://img.shields.io/badge/INSTAGRAM-%40offxdildar-080A0C?style=flat-square&logo=instagram&logoColor=F5F5F5)](https://www.instagram.com/offx.io/)
 [![TIKTOK](https://img.shields.io/badge/TIKTOK-%40offxio-080A0C?style=flat-square&logo=tiktok&logoColor=F5F5F5)](https://www.tiktok.com/@offxio)
